@@ -1,0 +1,26 @@
+<resources>
+
+<string name="app_name">短视频测试</string>
+<string name="menu_share">Share</string>
+<string name="ar_record">开始录制</string>
+<string name="ar_stop">停止录制</string>
+<string name="speed_super_slow">极慢"</string>
+<string name="speed_slow">慢"</string>
+<string name="speed_normal">正常"</string>
+<string name="speed_fast">快"</string>
+<string name="speed_super_fast">极快"</string>
+<string name="speed_range">分段变速</string>
+<string name="dlg_save_draft_title">输入草稿标题</string>
+<string name="dlg_save_draft_yes">保存</string>
+<string name="toast_draft_title_exist">已存在相同标题的草稿</string>
+<string name="toast_draft_save_success">草稿保存成功</string>
+<string name="toast_draft_save_fail">草稿保存失败</string>
+<string name="toast_draft_recover_success">草稿恢复成功</string>
+<string name="toast_draft_recover_fail">草稿恢复失败</string>
+<string name="dlg_delete_draft">确认删除草稿</string>
+<string name="upload">上传</string>
+<string name="cancel_upload">取消上传</string>
+<string name="if_edit_video">是否保存视频</string>
+<string name="dlg_yes">是</string>
+<string name="dlg_no">否</string>
+</resources>
